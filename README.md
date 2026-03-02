@@ -12,12 +12,10 @@ I am building hands-on skills to prepare for SOC and entry-level cybersecurity r
 - Basic Linux commands
 - Introduction to SOC operations
 
----
 
 ##  90-Day Goal
 To build practical cybersecurity projects and become internship-ready within 2–3 months.
 
----
 
 ## 📌 Upcoming Projects
 - Home Lab Setup (VirtualBox + Kali Linux)
